@@ -294,6 +294,7 @@ ul#files.view-details li.header {
         text-indent: 41px;
     }
     #upload{
+        border-bottom: 1px solid #d4d4d4;
         padding:10px;
         margin-bottom: 0;
     }
